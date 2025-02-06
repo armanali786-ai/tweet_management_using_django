@@ -1,0 +1,16 @@
+# Ignore virtual environment directory
+myenv/
+
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+
+# Ignore database file
+db.sqlite3
+
+# Ignore secret key files (if you use .env or similar)
+.env
+
+# Ignore static files (optional, depending on your project)
+staticfiles/
+media/
